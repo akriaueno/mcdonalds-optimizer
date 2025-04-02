@@ -15,7 +15,7 @@
       "name": "たんぱく質",
       "unit": "g",
       "figure": "1",
-      "description": "<div><span>血液や筋肉、骨などからだを作り、エネルギーにもなる</span>栄養素。<br><span>免疫機能(病気やケガに対する抵抗力や治癒力など)を高める</span>働きがあるため、1食につき主菜1皿は食べるようにしましょう。</div><div><span class='result__point-detail-title'>【たんぱく質が含まれる食品】</span><br><span>動物性:肉、魚介類、卵、牛乳、乳製品</span><br><span>植物性:大豆</span><br>動物性、植物性の両方から摂取するのが理想。</div><div><span class='result__point-detail-title'>【不足】</span>免疫力や抵抗力の低下、筋力の低下<br><span class='result__point-detail-title'>【過剰】</span>肥満、腎臓への負担</div><div><span>成長期</span>は1日4~5皿が目安。<span>中高年期</span>はとり過ぎに注意し、<span>老年期</span>は必要量をとれるように心がけましょう。</div>"
+      "description": "<div><span>血液や筋肉、骨などからだを作り、エネルギーにもなる</span>栄養素。<br><span>免疫機能(病気やケガに対する抵抗力や治癒力など)を高める</span>働きがあるため、1食につき主菜1皿は食べるようにしましょう。</div><div><span class='result__point-detail-title'>【たんぱく質が含まれる食品】</span><br><span>動物性:肉、魚介類、卵、牛乳、乳製品</span><br><span>植物性:大豆、大豆製品</span><br>動物性、植物性の両方から摂取するのが理想。</div><div><span class='result__point-detail-title'>【不足】</span>免疫機能の低下、筋力の低下<br><span class='result__point-detail-title'>【過剰】</span>肥満、腎臓への負担</div><div><span>成長期</span>は1日4~5皿が目安。<span>中高年期</span>はとり過ぎに注意し、<span>老年期</span>は必要量をとれるように心がけましょう。</div>"
     },
     {
       "nutrient_id": "4",
@@ -79,7 +79,7 @@
       "name": "ビタミンＣ",
       "unit": "mg",
       "figure": "0",
-      "description": "<div><span>血管や皮膚、粘膜、骨を丈夫にする</span>働きを持つ栄養素。<span>免疫力を高め、ストレスに強いからだ作り</span>に欠かせません。コラーゲンを作る材料、肌の美白効果など、<span>美容</span>にも働きます。<br><span>ストレスがあると消費しやすい</span>ので、毎日の食事での摂取を心がけましょう。</div><div><span class='result__point-detail-title'>【ビタミン C が含まれる食品】</span><br>いちご、キウイフルーツ、柑橘類の果物、ピーマン、ブロッコリー、かぼちゃ、ほうれん草など</div><div><span class='result__point-detail-title'>【不足】</span>風邪、血管の機能低下<br><span class='result__point-detail-title'>【過剰】</span>とり過ぎた場合は体外へ排出されてしまうため心配ありません。</div>"
+      "description": "<div><span>血管や皮膚、粘膜、骨を丈夫にする</span>働きを持つ栄養素。<span>免疫機能を高め、ストレスに強いからだ作り</span>に欠かせません。コラーゲンを作る材料、肌の美白効果など、<span>美容</span>にも働きます。<br><span>ストレスがあると消費しやすい</span>ので、毎日の食事での摂取を心がけましょう。</div><div><span class='result__point-detail-title'>【ビタミン C が含まれる食品】</span><br>いちご、キウイフルーツ、柑橘類の果物、ピーマン、ブロッコリー、かぼちゃ、ほうれん草など</div><div><span class='result__point-detail-title'>【不足】</span>風邪、血管の機能低下<br><span class='result__point-detail-title'>【過剰】</span>とり過ぎた場合は体外へ排出されてしまうため心配ありません。</div>"
     },
     {
       "nutrient_id": "17",
@@ -87,7 +87,7 @@
       "name": "食物繊維",
       "unit": "g",
       "figure": "1",
-      "description": "<div><span>整腸作用</span>を持つ栄養素。そしゃく回数を増やすため、満腹感が得やすく<span>肥満予防効果</span>も。<br>水溶性:主に体内から発がん物質、余分なコレステロール、糖質、塩分等を排出する。<span>血管の掃除</span>役。<span>生活習慣病の予防・改善</span>効果。<br>不溶性:主に腸内で膨らみ、腸を刺激することで便通を整える。<span>腸の掃除</span>役。</div><div><span class='result__point-detail-title'>【食物繊維が含まれる食品】</span><br><span>水溶性</span>:海藻類、オクラ、長芋<br><span>不溶性</span>:豆類、さつまいも<br><span>両方</span>:ごぼう、きのこ類</div><div><span class='result__point-detail-title'>【不足】</span>便秘、生活習慣病<br><span class='result__point-detail-title'>【過剰】</span>ふだんの食事でとり過ぎる心配はほとんどありません。</div><div><span>便秘気味の人や生活習慣病の人</span>は積極的にとりましょう。</div>"
+      "description": "<div><span>整腸作用</span>を持つ栄養素。そしゃく回数を増やすため、満腹感が得やすく<span>肥満予防効果</span>も。<br>水溶性:主に体内から発がん物質、余分なコレステロール、糖質、塩分等を排出する。<span>血管の掃除</span>役。<span>生活習慣病の予防・改善</span>効果。<br>不溶性:主に腸内で膨らみ、腸を刺激することで便通を整える。<span>腸の掃除</span>役。</div><div><span class='result__point-detail-title'>【食物繊維が含まれる食品】</span><br><span>水溶性</span>:海藻類、オクラ、長芋<br><span>不溶性</span>:<span>穀類、</span>豆類、さつまいも<br><span>両方</span>:ごぼう、きのこ類、キウイ</div><div><span class='result__point-detail-title'>【不足】</span>便秘、生活習慣病<br><span class='result__point-detail-title'>【過剰】</span>ふだんの食事でとり過ぎる心配はほとんどありません。</div><div><span>便秘気味の人や生活習慣病の人</span>は積極的にとりましょう。</div>"
     },
     {
       "nutrient_id": "18",
