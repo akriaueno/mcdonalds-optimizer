@@ -6,6 +6,10 @@ cd $dir_name
 
 mkdir -p ../data/
 ./get_data.sh
-./save_to_sqlite.py
+if command -v uv >/dev/null 2>&1; then
+  uv run python ./save_to_sqlite.py
+else
+  python3 ./save_to_sqlite.py
+fi
 
 set +x
