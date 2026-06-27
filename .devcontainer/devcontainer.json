@@ -17,7 +17,7 @@
       ]
     }
   },
-  "updateContentCommand": "curl -LsSf https://astral.sh/uv/install.sh | sh && $HOME/.local/bin/uv sync && echo 'uv sync completed'",
+  "updateContentCommand": "curl -LsSf https://astral.sh/uv/install.sh | sh && $HOME/.local/bin/uv sync --locked && echo 'uv sync completed'",
   "postAttachCommand": {
     "server": "$HOME/.local/bin/uv run streamlit run src/main.py --server.enableCORS false --server.enableXsrfProtection false"
   },

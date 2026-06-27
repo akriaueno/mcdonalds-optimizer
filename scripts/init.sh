@@ -1,8 +1,8 @@
-#!/usr/bin/env bash 
-set -x
-dir_name=$(cd $(dirname $0) && pwd)
+#!/usr/bin/env bash
+set -ex
+dir_name=$(cd "$(dirname "$0")" && pwd)
 
-cd $dir_name
+cd "$dir_name"
 
 mkdir -p ../data/
 ./get_data.sh
