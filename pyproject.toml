@@ -5,9 +5,9 @@ description = "Optimize McDonald's menu choices."
 readme = "README.md"
 requires-python = ">=3.11,<3.12"
 dependencies = [
-    "mip==1.15.0",
-    "pandas==2.2.1",
-    "streamlit==1.54.0",
+    "mip==1.17.6",
+    "pandas==3.0.3",
+    "streamlit==1.58.0",
 ]
 
 [tool.uv]
